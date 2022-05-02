@@ -1,7 +1,7 @@
 <!-- - https://github.com/dhyeythumar/awesome-readme-tools - -->
 <!-- ----------- HEADER ------------ -->
 <p align="center">
- <img src="https://media.discordapp.net/attachments/515216637415391252/970527600520855552/unknown.png" alt="Title Image" />
+ <img src="https://media.discordapp.net/attachments/515216637415391252/970529547881680896/T3M3SBanner.png" alt="Title Image" />
 </p>
 <!--<p align="center">
   <a href="https://rustyrhuskey.tk">Website</a>
