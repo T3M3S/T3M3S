@@ -74,9 +74,9 @@
 </p>
 
 <!-- ----------- SPOTIFY STATS ------------ -->
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22jwdifyrvt3ioidsln7lxgna&cover_image=true&theme=natemoo-re&bar_color=ffffff&bar_color_cover=false" alt=""></a>
-</p>
+</p>-->
 
 <!-- ----------- PROFILE STATS ------------ -->
 <p align="center">
