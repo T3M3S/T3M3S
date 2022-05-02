@@ -1,8 +1,8 @@
 <!-- - https://github.com/dhyeythumar/awesome-readme-tools - -->
 <!-- ----------- HEADER ------------ -->
-<!-- <p align="center">
- <img src="https://media.discordapp.net/attachments/755868456993423491/883560733680496690/RHGBanner_edge.png" alt="Title Image" />
-</p> -- >
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/515216637415391252/970527600520855552/unknown.png" alt="Title Image" />
+</p>
 <!--<p align="center">
   <a href="https://rustyrhuskey.tk">Website</a>
   ·
